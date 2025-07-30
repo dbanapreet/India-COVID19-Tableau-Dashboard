@@ -13,7 +13,11 @@
 
 - Tableau
 - Public COVID-19 dataset
+  ## 📍 Live Dashboard & Profile
 
+🔹 [View this Dashboard on Tableau Public](https://public.tableau.com/app/profile/banapreet.das/viz/Covid-19inIndiaDashboardAnalysis_17537794215420/Dashboard1)
+
+🔹 [Visit My Tableau Public Profile](https://public.tableau.com/app/profile/banapreet.das/vizzes)
 ## 📷 Dashboard Preview
 
 Add dashboard screenshots here if not already uploaded.
