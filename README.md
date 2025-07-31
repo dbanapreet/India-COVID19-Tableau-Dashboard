@@ -7,7 +7,7 @@
 - State-wise breakdown of confirmed, recovered, and death cases
 - Temporal analysis of daily and cumulative cases
 - Comparison of affected regions using bar and line charts
-- Visual storytelling with intuitive charts and filters
+- Visual storytelling with intuitive charts and filters.
 
 ## 🛠 Tools Used
 
